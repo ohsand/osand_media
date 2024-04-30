@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/  # Disallow crawling of the admin directory
+Disallow: /private-page.html  # Disallow crawling of a specific page
+Allow: /images/  # Allow crawling of the images directory
