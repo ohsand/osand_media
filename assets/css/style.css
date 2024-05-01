@@ -5546,6 +5546,11 @@ button {
     font-weight: 500;
 }
 
+.lang-select:hover {
+    color: #3C7BFC;
+    text-decoration: underline #3C7BFC;
+}
+
 /*---==========================
    End Dark Page Css
 =========================---*/

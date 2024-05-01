@@ -4508,3 +4508,8 @@ button {
     height: 60%;
     background: url(../images/footer/footer-page-bg-1.png) left no-repeat
 }
+
+.lang-select:hover {
+    color: #3c7bfc;
+    text-decoration: underline #3C7BFC
+}
