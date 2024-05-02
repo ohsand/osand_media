@@ -27,4 +27,31 @@
     <url>
         <loc>https://www.osandmedia.com/services</loc>
     </url>
+    <url>
+        <loc>https://www.osandmedia.com/en</loc>
+    </url>
+    <url>
+        <loc>https://www.osandmedia.com/en/index</loc>
+    </url>
+    <url>
+        <loc>https://www.osandmedia.com/en/about</loc>
+    </url>
+    <url>
+        <loc>https://www.osandmedia.com/en/contact</loc>
+    </url>
+    <url>
+        <loc>https://www.osandmedia.com/en/projects</loc>
+    </url>
+    <url>
+        <loc>https://www.osandmedia.com/en/service-web</loc>
+    </url>
+    <url>
+        <loc>https://www.osandmedia.com/en/service-contenu</loc>
+    </url>
+    <url>
+        <loc>https://www.osandmedia.com/en/service-seo</loc>
+    </url>
+    <url>
+        <loc>https://www.osandmedia.com/en/services</loc>
+    </url>
 </urlset>
